@@ -1,0 +1,13 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid whitesmoke;
+    margin: 2px;
+}
+.pokemon img {
+    display: block;
+}
+body{
+    background-color: black;
+    color: whitesmoke;
+}
